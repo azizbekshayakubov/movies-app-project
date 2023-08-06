@@ -24,6 +24,9 @@ https://files.readme.io/29c6fee-blue_short.svg "
         <Link to="/movies/upcoming" style={{ textDecoration: "none" }}>
           <span>Upcoming</span>
         </Link>
+        <Link to="/people" style={{ textDecoration: "none" }}>
+          <span>People</span>
+        </Link>
       </div>
     </div>
   );
